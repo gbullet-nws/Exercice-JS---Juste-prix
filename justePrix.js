@@ -7,9 +7,7 @@ Tant que le prix n’est pas le meme
     Lui dire si c’est moins
 Féliciter le joueur si le prix est le bon
 Indice: “tant que” = boucle while en javascript
-*/
- 
-/*
+
     TODO: Demander la difficulté choisie
     FACILE > 0 - 10
     MOYEN > 0 - 100
